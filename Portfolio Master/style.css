@@ -1,0 +1,17 @@
+h1 {
+    color: brown;
+}
+
+* {
+    border: solid;
+}
+.title
+{
+    border:cyan;
+}
+
+.sub-titles{
+    font-family: 'Courier New', Courier, monospace;
+    background-color:red;
+    color: seagreen;
+}
